@@ -12,14 +12,14 @@ class nprStoryData(object):
 		self.parameters = {'id': None,'numResults': None, 'requiredAssets': None }
 		self.has_id = False
 		self.has_asset = False
+		self.json = None
 		self.AUDIO = 'audio'
 		self.TEXT = 'text'
 		self.IMAGES = 'images'
-		self.json = None
 	def add_num_results(self,num):
 		"""Adds numbered of results that should be returned to the URL. If there's already a value for numResults
 			it will be replaced by the new value."""
-			self.parameters['numResults'] = str(num)
+		self.parameters['numResults'] = str(num)
 	def add_id(self,id):
 		"""Adds an ID parameter to the URL. (Indicates what category/program to return stories from.), can add multiple ID's."""
 		if self.has_id:
@@ -28,11 +28,10 @@ class nprStoryData(object):
 			self.parameters['id'] = str(id)
 			self.has_id = True
 	def add_required_assets(self,asset):
-		#Only pass in one of the enumerated class fields
 		"""Adds a required asset parameter to the URL, can add multiple required assets."""
-		if asset != self.AUDIO or asset != self.TEXT or asset != self.IMAGES:
-			return 'Incorrect Inputs, please only input self.AUDIO, self.TEXT, or self.IMAGES into this function.'
-		if self.has_asset:
+		if asset != self.AUDIO and asset != self.TEXT and asset != self.IMAGES:
+			print 'Incorrect Inputs, please only input "audio", "text", or "images" into this function.'
+		elif self.has_asset:
 			self.parameters['requiredAssets'] +=  ',' + asset
 		else:
 			self.parameters['requiredAssets'] = asset

@@ -15,8 +15,8 @@ class TestnprStoryData(unittest.TestCase):
 		self.test_add_num_results()
 		self.test_add_id()
 		self.test_add_id_additional()
-		self.test_add_required_assets()
-		self.test_add_required_assets_additional()
+		self.test_add_assets()
+		self.test_add_assets_additional()
 #		self.test_get_json()
 		print 'All Tests Passed!'
 	def test_add_num_results(self):
@@ -28,15 +28,15 @@ class TestnprStoryData(unittest.TestCase):
 	def test_add_id_additional(self):
 		self.testcase.add_id('1000')
 		self.assertEqual(self.testcase.parameters['id'], '1007,1000')
-	def test_add_required_assets(self):
-		self.testcase.add_required_assets(self.testcase.AUDIO)
+	def test_add_assets(self):
+		self.testcase.add_assets(self.testcase.AUDIO)
 		self.assertEqual(self.testcase.parameters['requiredAssets'], 'audio')
-	def test_add_required_assets_additional(self):
-		self.testcase.add_required_assets('text')
+	def test_add_assets_additional(self):
+		self.testcase.add_assets('text')
 		self.assertEqual(self.testcase.parameters['requiredAssets'], 'audio,text')
 	def test_reset_url(self):
 		self.testcase.add_num_results(4)
-		self.testcase.add_required_assets(self.testcase.IMAGES)
+		self.testcase.add_assets(self.testcase.IMAGES)
 		self.testcase.add_id('1007')
 		self.testcase.reset_url()
 		self.assertEqual(self.testcase.parameters, {'id': None,'numResults': None, 'requiredAssets': None })

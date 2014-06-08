@@ -3,6 +3,9 @@ A simple Python application created for the purpose of practicing using API's an
 Good resources for developing this app further:
 
 Developer resources (adding additional criteria to API call): http://dev.npr.org/
+
 Query Generator: http://www.npr.org/api/queryGenerator.php
+
 Mapping index (Map's topics to ID's): http://www.npr.org/api/mappingCodes.php
+
 Current NPR widgets: http://www.npr.org/api/widgets.php

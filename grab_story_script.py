@@ -6,7 +6,7 @@ import datetime
 
 month_day = datetime.datetime.fromtimestamp(time.time()).strftime('-%m-%d')
 
-API_KEY='MDE0MzQwNzMxMDE0MDEwNjE1MzNhNjU1Yw001'
+
 
 #id's to practice with 1007 for science, 1002 for home page stories, 1090 for story of the day
 

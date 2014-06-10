@@ -1,5 +1,4 @@
 """For now this script, just prints the headlines from the past 5 years to the command line, in the future make a better front-end."""
-import os
 import npr_story_ext as npr
 import time
 import datetime

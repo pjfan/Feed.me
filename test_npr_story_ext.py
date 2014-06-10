@@ -2,7 +2,6 @@ from npr_story_ext import nprStoryData
 import unittest
 import requests
 
-API_KEY='MDE0MzQwNzMxMDE0MDEwNjE1MzNhNjU1Yw001'
 
 #The test_get_json() function takes forever to run, I commented it out to make test code run faster.
 
@@ -10,7 +9,7 @@ API_KEY='MDE0MzQwNzMxMDE0MDEwNjE1MzNhNjU1Yw001'
 
 class TestnprStoryData(unittest.TestCase):
 	def runTest(self):
-		self.testcase = nprStoryData(API_KEY)
+		self.testcase = nprStoryData()
 		self.test_reset_url()
 		self.test_add_num_results()
 		self.test_add_id()

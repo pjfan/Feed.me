@@ -2,7 +2,7 @@ from npr_story_ext import nprStoryData
 import unittest
 import requests
 
-API_KEY='MDE0MzQwNzMxMDE0MDEwNjE1MzNhNjU1Yw001'
+
 
 #The test_get_json() function takes forever to run, I commented it out to make test code run faster.
 

@@ -12,7 +12,7 @@ import alchemy_api as alch
 class RegionalData(object):
 	def __init__(self, region_id):
 		self.id = region_id
-		self.npr_story = npr.nprStoryData(id=self.id, numResults=10)
+		self.npr_story = npr.nprStoryData(id=self.id, numResults=10, date="2014-06-17")
 		self.npr_json = self.npr_story.get_json()
 	def parse_npr_json(self):
 		json_list = []
@@ -30,4 +30,7 @@ class RegionalData(object):
 		return json_list
 
 print RegionalData('1125').parse_npr_json()
+print RegionalData('1126').parse_npr_json()
+print RegionalData('1127').parse_npr_json()
+print RegionalData('1124').parse_npr_json()
 

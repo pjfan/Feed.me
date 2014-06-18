@@ -1,0 +1,145 @@
+{
+    "entities": [
+        {
+            "count": "5", 
+            "disambiguated": {
+                "ciaFactbook": "http://www4.wiwiss.fu-berlin.de/factbook/resource/India", 
+                "dbpedia": "http://dbpedia.org/resource/India", 
+                "freebase": "http://rdf.freebase.com/ns/m.09c6w", 
+                "geo": "21.0 78.0", 
+                "name": "India", 
+                "opencyc": "http://sw.opencyc.org/concept/Mx4rvVj7XJwpEbGdrcN5Y29ycA", 
+                "subType": [
+                    "Location", 
+                    "HumanLanguage", 
+                    "Region", 
+                    "GovernmentalJurisdiction", 
+                    "FilmEditor"
+                ], 
+                "website": "http://india.gov.in/", 
+                "yago": "http://yago-knowledge.org/resource/India"
+            }, 
+            "relevance": "0.902033", 
+            "text": "India", 
+            "type": "Country"
+        }, 
+        {
+            "count": "5", 
+            "relevance": "0.842737", 
+            "text": "hijras", 
+            "type": "City"
+        }, 
+        {
+            "count": "3", 
+            "relevance": "0.715309", 
+            "text": "seat belt", 
+            "type": "FieldTerminology"
+        }, 
+        {
+            "count": "1", 
+            "relevance": "0.46288", 
+            "text": "India Ogilvy", 
+            "type": "Company"
+        }, 
+        {
+            "count": "1", 
+            "relevance": "0.403887", 
+            "text": "Prime Minister Narendra Modi", 
+            "type": "Person"
+        }, 
+        {
+            "count": "1", 
+            "disambiguated": {
+                "dbpedia": "http://dbpedia.org/resource/Gopinath_Munde", 
+                "freebase": "http://rdf.freebase.com/ns/m.0gpw5f", 
+                "name": "Gopinath Munde", 
+                "subType": [
+                    "Politician"
+                ], 
+                "yago": "http://yago-knowledge.org/resource/Gopinath_Munde"
+            }, 
+            "relevance": "0.394684", 
+            "text": "Gopinath Munde", 
+            "type": "Person"
+        }, 
+        {
+            "count": "1", 
+            "disambiguated": {
+                "dbpedia": "http://dbpedia.org/resource/World_Health_Organization", 
+                "freebase": "http://rdf.freebase.com/ns/m.0840w", 
+                "name": "World Health Organization", 
+                "opencyc": "http://sw.opencyc.org/concept/Mx4rvwde-5wpEbGdrcN5Y29ycA", 
+                "website": "http://www.who.int/", 
+                "yago": "http://yago-knowledge.org/resource/World_Health_Organization"
+            }, 
+            "relevance": "0.373068", 
+            "text": "World Health Organization", 
+            "type": "Organization"
+        }, 
+        {
+            "count": "1", 
+            "disambiguated": {
+                "dbpedia": "http://dbpedia.org/resource/World_Bank", 
+                "freebase": "http://rdf.freebase.com/ns/m.02vk52z", 
+                "name": "World Bank", 
+                "subType": [
+                    "Location", 
+                    "Company", 
+                    "Facility"
+                ], 
+                "website": "http://www.worldbank.org/", 
+                "yago": "http://yago-knowledge.org/resource/World_Bank"
+            }, 
+            "relevance": "0.34067", 
+            "text": "World Bank", 
+            "type": "Organization"
+        }, 
+        {
+            "count": "1", 
+            "disambiguated": {
+                "dbpedia": "http://dbpedia.org/resource/New_Delhi", 
+                "freebase": "http://rdf.freebase.com/ns/m.0dlv0", 
+                "geonames": "http://sws.geonames.org/1261481/", 
+                "name": "New Delhi", 
+                "subType": [
+                    "AdministrativeDivision"
+                ], 
+                "website": "http://www.ndmc.gov.in", 
+                "yago": "http://yago-knowledge.org/resource/New_Delhi"
+            }, 
+            "relevance": "0.325994", 
+            "text": "New Delhi", 
+            "type": "City"
+        }, 
+        {
+            "count": "1", 
+            "disambiguated": {
+                "dbpedia": "http://dbpedia.org/resource/Mumbai", 
+                "freebase": "http://rdf.freebase.com/ns/m.04vmp", 
+                "geo": "18.975 72.8258", 
+                "geonames": "http://sws.geonames.org/1275339/", 
+                "name": "Mumbai", 
+                "subType": [
+                    "AdministrativeDivision", 
+                    "IndianCity", 
+                    "MilitaryPost"
+                ], 
+                "website": "http://www.mcgm.gov.in", 
+                "yago": "http://yago-knowledge.org/resource/Mumbai"
+            }, 
+            "relevance": "0.310845", 
+            "text": "Mumbai", 
+            "type": "City"
+        }, 
+        {
+            "count": "1", 
+            "relevance": "0.27749", 
+            "text": "Cabinet", 
+            "type": "Organization"
+        }
+    ], 
+    "language": "english", 
+    "status": "OK", 
+    "url": "http://www.npr.org/blogs/parallels/2014/06/17/323026150/indias-transgender-community-turns-seat-belt-safety-into-video-hit", 
+    "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html"
+}

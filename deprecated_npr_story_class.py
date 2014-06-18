@@ -5,8 +5,7 @@ import time
 import datetime
 
 
-API_KEY = os.environ.get('NPR_API_KEY', 'INPUT_NPR_API_KEY_HERE')
-
+NPR_API_KEY = os.environ.get('NPR_API_KEY', 'INPUT_NPR_API_KEY_HERE')
 
 #default format for response is json
 
@@ -14,7 +13,7 @@ date_stamp = datetime.datetime.fromtimestamp(time.time()).strftime('%y-%m-%d')
 
 class nprStoryData(object):
 	def __init__(self, id=None, numResults=None, requiredAssets=None, date=date_stamp):
-		self.API_KEY = API_KEY
+		self.API_KEY = NPR_API_KEY
 		self.url = 'http://api.npr.org/query?apiKey=' + API_KEY + '&format=json'
 		self.parameters = {'id': id,'numResults': numResults, 'requiredAssets': requiredAssets, 'date': date}
 		self.has_id = False
@@ -62,6 +61,6 @@ class nprStoryData(object):
 		return self.json
 	def json_to_text(self):
 		self.get_json()
-		with open (str(self.parameters['id']) + '_' + self.parameters['date'] + '_' + 'nprStory.json','w') as npr_json:
+		with open (str(self.parameters['id']) + '_' +'_' + 'nprStory.json','w') as npr_json:
 			json.dump(self.json, npr_json, sort_keys=True, indent=4)
 

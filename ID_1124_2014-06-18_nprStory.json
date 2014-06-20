@@ -1,0 +1,1302 @@
+{
+    "list": {
+        "link": [
+            {
+                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                "type": "api"
+            }, 
+            {
+                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                "type": "html"
+            }
+        ], 
+        "miniTeaser": {
+            "$text": "Europe"
+        }, 
+        "story": [
+            {
+                "audio": [
+                    {
+                        "description": {}, 
+                        "duration": {}, 
+                        "format": {}, 
+                        "id": "323351051", 
+                        "permissions": {
+                            "download": {
+                                "allow": "false"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }, 
+                        "rightsHolder": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "title": {}, 
+                        "type": "primary"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323351733", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/2100491/corey-flintoff?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=2100491&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "name": {
+                            "$text": "Corey Flintoff", 
+                            "personId": "2100491"
+                        }
+                    }
+                ], 
+                "id": "323351050", 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 16:22:57 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/06/18/323351050/from-ukraines-president-a-promise-of-truce-with-conditions?ft=3&f=1124", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323351050&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1nhjV5X", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "323160069", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/2014/06/18/323160069?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=323160069&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "All Things Considered for June 18, 2014"
+                        }, 
+                        "type": "unknown"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1001", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "News"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "2", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=2&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "All Things Considered"
+                        }, 
+                        "type": "program"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 16:32:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "Europe"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 16:22:57 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "Ukraine's new president says he will declare a unilateral cease-fire in eastern Ukraine. The announcement comes after months of fighting between government troops and pro-Moscow separatists."
+                }, 
+                "title": {
+                    "$text": "From Ukraine's President, A Promise Of Truce \u2014 With Conditions"
+                }
+            }, 
+            {
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323210879", 
+                        "name": {
+                            "$text": "Laurel Dalrymple"
+                        }
+                    }
+                ], 
+                "fullText": {
+                    "$text": "<div class=\"storytitle\">      <h1>The Twisty Tale Of The World's Most Expensive Stamp</h1>   <input type=\"hidden\" id=\"title323210877\" value=\"The Twisty Tale Of The World's Most Expensive Stamp\"></input>   <input type=\"hidden\" id=\"modelShortUrl323210877\" value=\"http://n.pr/1ng22o9\"></input>   <input type=\"hidden\" id=\"modelFullUrl323210877\" value=\"http://www.npr.org/blogs/thetwo-way/2014/06/18/323210877/the-twisty-tale-of-the-world-s-most-expensive-stamp\"></input></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div id=\"storybyline\" class=\"  linkLocation\">            <div class=\"bucketwrap byline\" id=\"res323210880\" previewTitle=\"bylines\">                  <p class=\"byline\">by <span>Laurel Dalrymple</span></p>      </div>      <!-- END CLASS=\"BUCKETWRAP BYLINE\" ID=\"RES323210880\" PREVIEWTITLE=\"BYLINES\" -->   </div>   <!-- END ID=\"STORYBYLINE\" CLASS=\"  LINKLOCATION\" -->   <div class=\"dateblock\">            <time datetime=\"2014-06-18\"><span class=\"date\">June 18, 2014</span><span class=\"time\">12:17 PM ET</span></time>   </div></div><!-- END ID=\"STORY-META\" --><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res323216482\" class=\"bucketwrap image large\" previewTitle=\"David Redden of Sotheby's auction house holds a case containing the sole-surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856.\">            <div class=\"imagewrap\">                  <img src=\"http://media.npr.org/assets/img/2014/06/18/495246727_wide-95450f89186841461dc3dfe6f7fe2be96c60dd43-s6.jpg\" title=\"David Redden of Sotheby's auction house holds a case containing the sole-surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856.\" alt=\"David Redden of Sotheby's auction house holds a case containing the sole-surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856.\" />         <a href=\"#\" class=\"enlargebtn\" title=\"Enlarge\">i</a>         <a href=\"#\" class=\"enlargebtn enlarge-smallscreen\" title=\"Enlarge\">i</a>      </div>      <!-- END CLASS=\"IMAGEWRAP\" -->      <div class=\"captionwrap\">                  <div class=\"caption\">                        <p><i>David Redden of Sotheby's auction house holds a case containing the sole-surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856.</i></p>         </div>         <!-- END CLASS=\"CAPTION\" -->      </div>      <!-- END CLASS=\"CAPTIONWRAP\" -->      <span class=\"creditwrap\"><span class=\"credit\">Oli Scarff</span>/<span class=\"rightsnotice\">Getty Images</span></span>   </div>   <p>Blemished, battered and cut, the \"British Guiana One-Cent Black on Magenta\" is a stamp with a twisty tale to tell, one that begins in the hands of a young Scottish boy and passes through the hands of a killer.</p>   <p>The 1856 treasure <a href=\"http://files.shareholder.com/downloads/BID/3259145988x0x762702/c0d4e883-6ac5-4e64-8820-bdb62ba609b9/762702.pdf\">was sold at Sotheby's</a> in New York for $9.5 million on Tuesday to a phone buyer who wished to remain anonymous \u2014 the fourth time it has broken the auction record for a single postage stamp.</p>   <div id=\"res323322362\" class=\"bucketwrap image small\" previewTitle=\"Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\"\">            <div class=\"imagewrap\">                  <img src=\"http://media.npr.org/assets/img/2014/06/18/450762012-48d0e74ed015fd172963b5067f7bc5b019d5f122-s1.jpg\" title=\"Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\"\" alt=\"Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\"\" />         <a href=\"#\" class=\"enlargebtn\" title=\"Enlarge\">i</a>         <a href=\"#\" class=\"enlargebtn enlarge-smallscreen\" title=\"Enlarge\">i</a>      </div>      <!-- END CLASS=\"IMAGEWRAP\" -->      <div class=\"captionwrap\">                  <div class=\"caption\">                        <p><i>Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\"</i></p>         </div>         <!-- END CLASS=\"CAPTION\" -->      </div>      <!-- END CLASS=\"CAPTIONWRAP\" -->      <span class=\"creditwrap\"><span class=\"credit\">Stan Honda</span>/<span class=\"rightsnotice\">AFP/Getty Images</span></span>   </div>   <p>The price, which Sotheby's notes is nearly 1 billion times the stamp's original face value, obliterates the previous single-stamp record: the 1855 Swedish \"Treskilling Yellow,\" which sold for about $2.2 million in 1996.</p>   <p>Just one copy of the One-Cent is known to exist, and it has not been seen in public for 30 years.</p>   <p>\"It has always been the world's most famous stamp. It is one of these objects around which a huge mystique has grown up over the years,\" <a href=\"https://www.facebook.com/laurelmdalrymple?ref=hl&ref_type=bookmark\">said David Redden</a>, the worldwide chairman of books and manuscripts at Sotheby's.</p>   <p>The stamp was printed just 16 years after the introduction of postage stamps. The postmaster in British Guiana (now Guyana), facing a stamp shortage, asked the colony's newspaper to print an emergency supply while awaiting a shipment of stamps from London.</p>   <p>Displeased with the quality of the printing, the <a href=\"http://www.kenmorestamp.com/british-guiana-1c\">postmaster asked</a> each postal clerk to initial the stamps upon sale to prevent fraud. The One-Cent bears the initials \"EDW,\" those of clerk E.D. Wight, and a postmark of April 4, 1856, from the town of Demerara.</p>   <p>The stamp's first owner was a Scottish boy named Vernon Vaughan who found it in 1873 among his family's letters. He sold it to a local collector for six shillings (<em>The Washington Post</em> says that was <a href=\"http://www.washingtonpost.com/news/morning-mix/wp/2014/06/18/rare-stamp-sold-for-9-5-million-a-record/\">about $1.50</a> back then.)</p>   <div id=\"res323222794\" class=\"bucketwrap image small\" previewTitle=\"John E. du Pont, left, and Olympic wrestler Dave Schultz are shown in this undated photo at the Foxcatcher National Training Center in Newtown Square, Pa.\">            <div class=\"imagewrap\">                  <img src=\"http://media.npr.org/assets/img/2014/06/18/ap96012601058-1-_vert-00b88cc3553b3079233c2dd447de9fcab324082c-s1.jpg\" title=\"John E. du Pont, left, and Olympic wrestler Dave Schultz are shown in this undated photo at the Foxcatcher National Training Center in Newtown Square, Pa.\" alt=\"John E. du Pont, left, and Olympic wrestler Dave Schultz are shown in this undated photo at the Foxcatcher National Training Center in Newtown Square, Pa.\" />         <a href=\"#\" class=\"enlargebtn\" title=\"Enlarge\">i</a>         <a href=\"#\" class=\"enlargebtn enlarge-smallscreen\" title=\"Enlarge\">i</a>      </div>      <!-- END CLASS=\"IMAGEWRAP\" -->      <div class=\"captionwrap\">                  <div class=\"caption\">                        <p><i>John E. du Pont, left, and Olympic wrestler Dave Schultz are shown in this undated photo at the Foxcatcher National Training Center in Newtown Square, Pa.</i></p>         </div>         <!-- END CLASS=\"CAPTION\" -->      </div>      <!-- END CLASS=\"CAPTIONWRAP\" -->      <span class=\"creditwrap\"><span class=\"credit\">Bill Fitz-Patrick</span>/<span class=\"rightsnotice\">AP</span></span>   </div>   <p>From there, the stamp passed through the hands of many philatelists, including Philipp von Ferrary, one of the world's greatest stamp collectors. It also spent some time in a Berlin museum and in the hands of the French as WWI reparations.</p>   <p>The stamp nearly ended up in the hands of King George V, but he underbid. It is the one major piece absent from the Royal Family's heirloom collection of stamps, <a href=\"http://www.dailymail.co.uk/news/article-2660912/A-1-cent-postage-stamp-19th-century-British-colony-South-America-valuable-stamp-world-fourth-time-selling-9-5-MILLION-DOLLARS.html\">said David Beech</a>, recently retired curator of stamps at the British Library.</p>   <p>The outbidder was Arthur Hind, of Utica, N.Y. Hind was later <a href=\"http://www.nytimes.com/2014/05/02/nyregion/the-mona-lisa-of-stamps-to-be-auctioned-at-sothebys.html?_r=0\">anonymously accused</a> of buying a second One-Cent and burning it, making the first more valuable. The accusation is unproven.</p>   <p>Before Tuesday, the One-Cent's last owner was John E. du Pont, an eccentric American multimillionaire and heir to the DuPont chemical fortune. Du Pont was also a generous sponsor of amateur wrestling and allowed his friend David Schultz, a champion Olympic wrestler, to live in a guest house on his estate.</p>   <p>In 1996, du Pont <a href=\"http://www.washingtonpost.com/wp-dyn/content/article/2010/12/09/AR2010120906515.html\">shot Schultz</a> three times, then locked himself in his mansion, holding police at bay for two days. Du Pont was eventually captured and convicted of murder, and died in prison in 2010. Relatives <a href=\"later contested\">who later unsuccessfully contested du Pont's will</a> said du Pont alternately claimed to be the Dalai Lama, Jesus Christ and a Russian czar.</p>   <p>Who knows what the One-Cent's next adventure will be. But as its history grows richer, the next buyer will have to be, too.</p>   <p><em>You can follow Laurel Dalrymple on Facebook at</em> <a href=\"https://www.facebook.com/laurelmdalrymple?ref=hl&ref_type=bookmark\">facebook.com/laurelmdalrymple</a></p></div><div class=\"fullattribution\">Copyright 2014 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=The+Twisty+Tale+Of+The+World%27s+Most+Expensive+Stamp&utme=8(APIKey)9(MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001)\"/></div>"
+                }, 
+                "id": "323210877", 
+                "image": [
+                    {
+                        "caption": {
+                            "$text": "David Redden of Sotheby's auction house holds a case containing the sole surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856."
+                        }, 
+                        "copyright": {}, 
+                        "crop": [
+                            {
+                                "height": "2276", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/495246727-b55752e9f9a85e60e6ddda2bc3b57ce5c9b5a671.jpg", 
+                                "type": "standard", 
+                                "width": "3037"
+                            }, 
+                            {
+                                "height": "1746", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/495246727_sq-254a9417074dbf7b81bf3482db6a677052a13380.jpg", 
+                                "type": "square", 
+                                "width": "1746"
+                            }, 
+                            {
+                                "height": "1905", 
+                                "primary": "true", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/495246727_wide-15e1fcc1295734d0d863f753bb90a8c0fb60d625.jpg", 
+                                "type": "wide", 
+                                "width": "3390"
+                            }, 
+                            {
+                                "height": "1905", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/495246727_wide-15e1fcc1295734d0d863f753bb90a8c0fb60d625.jpg", 
+                                "type": "enlargement", 
+                                "width": "3390"
+                            }
+                        ], 
+                        "enlargement": {
+                            "caption": {}, 
+                            "src": "http://media.npr.org/assets/img/2014/06/18/495246727_wide-15e1fcc1295734d0d863f753bb90a8c0fb60d625.jpg"
+                        }, 
+                        "hasBorder": "false", 
+                        "id": "323216482", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "producer": {
+                            "$text": "Oli Scarff"
+                        }, 
+                        "provider": {
+                            "$text": "Getty Images", 
+                            "url": ""
+                        }, 
+                        "src": "http://media.npr.org/assets/img/2014/06/18/495246727_wide-15e1fcc1295734d0d863f753bb90a8c0fb60d625.jpg?s=12", 
+                        "title": {
+                            "$text": "David Redden of Sotheby's auction house holds a case containing the sole surviving \"British Guiana One-Cent Black on Magenta\" stamp dating from 1856."
+                        }, 
+                        "type": "primary", 
+                        "width": "200"
+                    }, 
+                    {
+                        "caption": {
+                            "$text": "Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\""
+                        }, 
+                        "copyright": {}, 
+                        "crop": [
+                            {
+                                "height": "2086", 
+                                "primary": "true", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/450762012-48d0e74ed015fd172963b5067f7bc5b019d5f122.jpg", 
+                                "type": "standard", 
+                                "width": "2780"
+                            }, 
+                            {
+                                "height": "1951", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/450762012_sq-da48f0d39fa8af81b8be39ab008a5fdd980c0413.jpg", 
+                                "type": "square", 
+                                "width": "1951"
+                            }, 
+                            {
+                                "height": "1653", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/450762012_wide-203c5eeadf535c9e5ae8dfa3f35fab81ea6bbe3d.jpg", 
+                                "type": "wide", 
+                                "width": "2942"
+                            }, 
+                            {
+                                "height": "2086", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/450762012-48d0e74ed015fd172963b5067f7bc5b019d5f122.jpg", 
+                                "type": "enlargement", 
+                                "width": "2780"
+                            }
+                        ], 
+                        "enlargement": {
+                            "caption": {}, 
+                            "src": "http://media.npr.org/assets/img/2014/06/18/450762012-48d0e74ed015fd172963b5067f7bc5b019d5f122.jpg"
+                        }, 
+                        "hasBorder": "false", 
+                        "id": "323322362", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "producer": {
+                            "$text": "Stan Honda"
+                        }, 
+                        "provider": {
+                            "$text": "AFP/Getty Images", 
+                            "url": ""
+                        }, 
+                        "src": "http://media.npr.org/assets/img/2014/06/18/450762012-48d0e74ed015fd172963b5067f7bc5b019d5f122.jpg?s=12", 
+                        "title": {
+                            "$text": "Measuring 1 inch-by-1.25 inches, the \"British Guiana One-Cent Black On Magenta\" bears the image of a three-masted ship and the colony's motto in Latin: \"We give and expect in return.\""
+                        }, 
+                        "type": "standard", 
+                        "width": "200"
+                    }
+                ], 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 13:42:20 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/blogs/thetwo-way/2014/06/18/323210877/the-twisty-tale-of-the-world-s-most-expensive-stamp?ft=3&f=1124", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323210877&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1ng213B", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "103943429", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/blogs/thetwo-way/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103943429&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "The Two-Way"
+                        }, 
+                        "type": "blog"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1091", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1091", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1003", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "U.S."
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1002", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1001", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "News"
+                        }, 
+                        "type": "topic"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 13:42:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "The Two-Way"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 12:17:00 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "The British Guiana One-Cent Black on Magenta begins its journey in a young Scottish boy's collection and passes through the hands of a delusional killer. It was auctioned Tuesday for $9.5 million."
+                }, 
+                "text": {
+                    "paragraph": [
+                        {
+                            "$text": "Blemished, battered and cut, the \"British Guiana One-Cent Black on Magenta\" is a stamp with a twisty tale to tell, one that begins in the hands of a young Scottish boy and passes through the hands of a killer.", 
+                            "num": "1"
+                        }, 
+                        {
+                            "$text": "The 1856 treasure was sold at Sotheby's in New York for $9.5 million on Tuesday to a phone buyer who wished to remain anonymous \u2014 the fourth time it has broken the auction record for a single postage stamp.", 
+                            "num": "2"
+                        }, 
+                        {
+                            "$text": "The price, which Sotheby's notes is nearly 1 billion times the stamp's original face value, obliterates the previous single-stamp record: the 1855 Swedish \"Treskilling Yellow,\" which sold for about $2.2 million in 1996.", 
+                            "num": "3"
+                        }, 
+                        {
+                            "$text": "Just one copy of the One-Cent is known to exist, and it has not been seen in public for 30 years.", 
+                            "num": "4"
+                        }, 
+                        {
+                            "$text": "\"It has always been the world's most famous stamp. It is one of these objects around which a huge mystique has grown up over the years,\" said David Redden, the worldwide chairman of books and manuscripts at Sotheby's.", 
+                            "num": "5"
+                        }, 
+                        {
+                            "$text": "The stamp was printed just 16 years after the introduction of postage stamps. The postmaster in British Guiana (now Guyana), facing a stamp shortage, asked the colony's newspaper to print an emergency supply while awaiting a shipment of stamps from London.", 
+                            "num": "6"
+                        }, 
+                        {
+                            "$text": "Displeased with the quality of the printing, the postmaster asked each postal clerk to initial the stamps upon sale to prevent fraud. The One-Cent bears the initials \"EDW,\" those of clerk E.D. Wight, and a postmark of April 4, 1856, from the town of Demerara.", 
+                            "num": "7"
+                        }, 
+                        {
+                            "$text": "The stamp's first owner was a Scottish boy named Vernon Vaughan who found it in 1873 among his family's letters. He sold it to a local collector for 6 shillings (The Washington Post says that was about $1.50 back then).", 
+                            "num": "8"
+                        }, 
+                        {
+                            "$text": "From there, the stamp passed through the hands of many philatelists, including Philipp von Ferrary, one of the world's greatest stamp collectors. It also spent some time in a Berlin museum and in the hands of the French as World War I reparations.", 
+                            "num": "9"
+                        }, 
+                        {
+                            "$text": "The stamp nearly ended up in the hands of King George V, but he underbid. It is the one major piece absent from the Royal Family's heirloom collection of stamps, said David Beech, recently retired curator of stamps at the British Library.", 
+                            "num": "10"
+                        }, 
+                        {
+                            "$text": "The outbidder was Arthur Hind of Utica, N.Y. Hind was later anonymously accused of buying a second One-Cent and burning it, making the first more valuable. The accusation is unproven.", 
+                            "num": "11"
+                        }, 
+                        {
+                            "$text": "Before Tuesday, the One-Cent's last owner was John E. du Pont, an eccentric American multimillionaire and heir to the DuPont chemical fortune. Du Pont was also a generous sponsor of amateur wrestling and allowed his friend David Schultz, a champion Olympic wrestler, to live in a guest house on his estate.", 
+                            "num": "12"
+                        }, 
+                        {
+                            "$text": "In 1996, du Pont shot Schultz three times, then locked himself in his mansion, holding police at bay for two days. Du Pont was eventually captured and convicted of murder, and died in prison in 2010. Relatives who later unsuccessfully contested du Pont's will said du Pont alternately claimed to be the Dalai Lama, Jesus Christ and a Russian czar.", 
+                            "num": "13"
+                        }, 
+                        {
+                            "$text": "Who knows what the One-Cent's next adventure will be. But as its history grows richer, the next buyer will have to be, too.", 
+                            "num": "14"
+                        }, 
+                        {
+                            "$text": "You can follow Laurel Dalrymple on Facebook at facebook.com/laurelmdalrymple. [Copyright 2014 NPR]", 
+                            "num": "15"
+                        }
+                    ]
+                }, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "$text": "Blemished, battered and cut, the \"British Guiana One-Cent Black on Magenta\" is a stamp with a twisty tale to tell, one that begins in the hands of a young Scottish boy and passes through the hands of a killer.", 
+                            "num": "1"
+                        }, 
+                        {
+                            "$text": "The 1856 treasure <a href=\"http://files.shareholder.com/downloads/BID/3259145988x0x762702/c0d4e883-6ac5-4e64-8820-bdb62ba609b9/762702.pdf\">was sold at Sotheby's</a> in New York for $9.5 million on Tuesday to a phone buyer who wished to remain anonymous \u2014 the fourth time it has broken the auction record for a single postage stamp.", 
+                            "num": "2"
+                        }, 
+                        {
+                            "$text": "The price, which Sotheby's notes is nearly 1 billion times the stamp's original face value, obliterates the previous single-stamp record: the 1855 Swedish \"Treskilling Yellow,\" which sold for about $2.2 million in 1996.", 
+                            "num": "3"
+                        }, 
+                        {
+                            "$text": "Just one copy of the One-Cent is known to exist, and it has not been seen in public for 30 years.", 
+                            "num": "4"
+                        }, 
+                        {
+                            "$text": "\"It has always been the world's most famous stamp. It is one of these objects around which a huge mystique has grown up over the years,\" <a href=\"https://www.facebook.com/laurelmdalrymple?ref=hl&ref_type=bookmark\">said David Redden</a>, the worldwide chairman of books and manuscripts at Sotheby's.", 
+                            "num": "5"
+                        }, 
+                        {
+                            "$text": "The stamp was printed just 16 years after the introduction of postage stamps. The postmaster in British Guiana (now Guyana), facing a stamp shortage, asked the colony's newspaper to print an emergency supply while awaiting a shipment of stamps from London.", 
+                            "num": "6"
+                        }, 
+                        {
+                            "$text": "Displeased with the quality of the printing, the <a href=\"http://www.kenmorestamp.com/british-guiana-1c\">postmaster asked</a> each postal clerk to initial the stamps upon sale to prevent fraud. The One-Cent bears the initials \"EDW,\" those of clerk E.D. Wight, and a postmark of April 4, 1856, from the town of Demerara.", 
+                            "num": "7"
+                        }, 
+                        {
+                            "$text": "The stamp's first owner was a Scottish boy named Vernon Vaughan who found it in 1873 among his family's letters. He sold it to a local collector for 6 shillings (<em>The Washington Post</em> says that was <a href=\"http://www.washingtonpost.com/news/morning-mix/wp/2014/06/18/rare-stamp-sold-for-9-5-million-a-record/\">about $1.50</a> back then).", 
+                            "num": "8"
+                        }, 
+                        {
+                            "$text": "From there, the stamp passed through the hands of many philatelists, including Philipp von Ferrary, one of the world's greatest stamp collectors. It also spent some time in a Berlin museum and in the hands of the French as World War I reparations.", 
+                            "num": "9"
+                        }, 
+                        {
+                            "$text": "The stamp nearly ended up in the hands of King George V, but he underbid. It is the one major piece absent from the Royal Family's heirloom collection of stamps, <a href=\"http://www.dailymail.co.uk/news/article-2660912/A-1-cent-postage-stamp-19th-century-British-colony-South-America-valuable-stamp-world-fourth-time-selling-9-5-MILLION-DOLLARS.html\">said David Beech</a>, recently retired curator of stamps at the British Library.", 
+                            "num": "10"
+                        }, 
+                        {
+                            "$text": "The outbidder was Arthur Hind of Utica, N.Y. Hind was later <a href=\"http://www.nytimes.com/2014/05/02/nyregion/the-mona-lisa-of-stamps-to-be-auctioned-at-sothebys.html?_r=0\">anonymously accused</a> of buying a second One-Cent and burning it, making the first more valuable. The accusation is unproven.", 
+                            "num": "11"
+                        }, 
+                        {
+                            "$text": "Before Tuesday, the One-Cent's last owner was John E. du Pont, an eccentric American multimillionaire and heir to the DuPont chemical fortune. Du Pont was also a generous sponsor of amateur wrestling and allowed his friend David Schultz, a champion Olympic wrestler, to live in a guest house on his estate.", 
+                            "num": "12"
+                        }, 
+                        {
+                            "$text": "In 1996, du Pont <a href=\"http://www.washingtonpost.com/wp-dyn/content/article/2010/12/09/AR2010120906515.html\">shot Schultz</a> three times, then locked himself in his mansion, holding police at bay for two days. Du Pont was eventually captured and convicted of murder, and died in prison in 2010. Relatives <a href=\"later contested\">who later unsuccessfully contested du Pont's will</a> said du Pont alternately claimed to be the Dalai Lama, Jesus Christ and a Russian czar.", 
+                            "num": "13"
+                        }, 
+                        {
+                            "$text": "Who knows what the One-Cent's next adventure will be. But as its history grows richer, the next buyer will have to be, too.", 
+                            "num": "14"
+                        }, 
+                        {
+                            "$text": "<em>You can follow Laurel Dalrymple on Facebook at</em> <a href=\"https://www.facebook.com/laurelmdalrymple?ref=hl&ref_type=bookmark\">facebook.com/laurelmdalrymple</a>.  <div class=\"fullattribution\">Copyright 2014 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=The+Twisty+Tale+Of+The+World%27s+Most+Expensive+Stamp&utme=8(APIKey)9(MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001)\"/></div>", 
+                            "num": "15"
+                        }
+                    ]
+                }, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "http://media.npr.org/assets/img/2014/06/18/495246727_sq-254a9417074dbf7b81bf3482db6a677052a13380.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "http://media.npr.org/assets/img/2014/06/18/495246727_sq-254a9417074dbf7b81bf3482db6a677052a13380.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "Getty Images"
+                    }
+                }, 
+                "title": {
+                    "$text": "The Twisty Tale Of The World's Most Expensive Stamp"
+                }
+            }, 
+            {
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323184472", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/14562108/bill-chappell?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=14562108&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "name": {
+                            "$text": "Bill Chappell", 
+                            "personId": "14562108"
+                        }
+                    }
+                ], 
+                "fullText": {
+                    "$text": "<div class=\"storytitle\">      <h1>Ukraine's President Announces Plan For Unilateral Cease-Fire</h1>   <input type=\"hidden\" id=\"title323184470\" value=\"Ukraine's President Announces Plan For Unilateral Cease-Fire\"></input>   <input type=\"hidden\" id=\"modelShortUrl323184470\" value=\"http://n.pr/1nfiwNm\"></input>   <input type=\"hidden\" id=\"modelFullUrl323184470\" value=\"http://www.npr.org/blogs/thetwo-way/2014/06/18/323184470/ukraine-s-president-orders-unilateral-ceasefire\"></input></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div id=\"storybyline\" class=\"  linkLocation\">            <div class=\"bucketwrap byline\" id=\"res323184473\" previewTitle=\"bylines\">                  <p class=\"byline\">by <a rel=\"author\" href=\"http://www.npr.org/people/14562108/bill-chappell\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><span>Bill Chappell</span></a></p>      </div>      <!-- END CLASS=\"BUCKETWRAP BYLINE\" ID=\"RES323184473\" PREVIEWTITLE=\"BYLINES\" -->   </div>   <!-- END ID=\"STORYBYLINE\" CLASS=\"  LINKLOCATION\" -->   <div class=\"dateblock\">            <time datetime=\"2014-06-18\"><span class=\"date\">June 18, 2014</span><span class=\"time\"> 8:25 AM ET</span></time>   </div></div><!-- END ID=\"STORY-META\" --><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res323188631\" class=\"bucketwrap image large\" previewTitle=\"Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants.\">            <div class=\"imagewrap\">                  <img src=\"http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_custom-e2d2fc272b736d3a5f3b39fb8ee59b60ef7026df-s6.jpg\" title=\"Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants.\" alt=\"Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants.\" />         <a href=\"#\" class=\"enlargebtn\" title=\"Enlarge\">i</a>         <a href=\"#\" class=\"enlargebtn enlarge-smallscreen\" title=\"Enlarge\">i</a>      </div>      <!-- END CLASS=\"IMAGEWRAP\" -->      <div class=\"captionwrap\">                  <div class=\"caption\">                        <p><i>Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants.</i></p>         </div>         <!-- END CLASS=\"CAPTION\" -->      </div>      <!-- END CLASS=\"CAPTIONWRAP\" -->      <span class=\"creditwrap\"><span class=\"credit\">Gleb Garanich</span>/<span class=\"rightsnotice\">Reuters/Landov</span></span>   </div>   <p>President Petro Poroshenko, whose rise to power in Ukraine coincided with an aggressive crackdown on separatist militants, is calling for a temporary cease-fire by government forces. The break in action would allow the armed opposition to lay down their weapons, Poroshenko says.</p>   <p>The cease-fire will begin in \"the next few days,\" <a href=\"http://www.reuters.com/article/2014/06/18/us-ukraine-crisis-putin-idUSKBN0ET0C920140618\">Reuters</a> reports, citing a Ukrainian defense official. The plan was announced during an appearance by Poroshenko at a military academy Wednesday.</p>   <p>From the <a href=\"http://www.kyivpost.com/content/ukraine/poroshenko-ukraine-is-in-a-state-of-war-352362.html\">Kyiv Post</a>:</p>   <p>\"Poroshenko declared that 'Ukraine is in a state of war,' and that Russia is waging 'a new type of warfare \u2014 with the use of professional subversive groups, mercenaries, volunteers, and the local population. And these volunteers and the local population have \"washed\" brains in a huge part due to the information war.' \"</p>   <p>Poroshenko announced his plan for a cease-fire one day after speaking with Russia's President Vladimir Putin by phone.</p>   <p>\"The Kremlin says Putin expressed concern over the deaths of two Russian state television journalists who were killed during clashes between Ukraine's government and pro-Russian rebels in Luhansk,\" NPR's Jessica Golloher reports from Moscow.</p>   <p>The cease-fire is part of a plan that Poroshenko said should include peace talks with separatist groups in Donetsk and other areas where people are seeking to break away from Ukraine's central government.</p>   <p>Ukraine's armed struggle with separatist groups has now been going on for months, as separatists have maintained control of government buildings in the country's eastern region close to its border with Russia.</p></div><div class=\"fullattribution\">Copyright 2014 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ukraine%27s+President+Announces+Plan+For+Unilateral+Cease-Fire&utme=8(APIKey)9(MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001)\"/></div>"
+                }, 
+                "id": "323184470", 
+                "image": [
+                    {
+                        "caption": {
+                            "$text": "Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants."
+                        }, 
+                        "copyright": {}, 
+                        "crop": [
+                            {
+                                "height": "2568", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko-440ffdb67b47cea774650f86d6e6fd697369a729.jpg", 
+                                "type": "standard", 
+                                "width": "3426"
+                            }, 
+                            {
+                                "height": "2531", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_sq-4086dedcdb8aa0614fa065901d444531f41998d5.jpg", 
+                                "type": "square", 
+                                "width": "2532"
+                            }, 
+                            {
+                                "height": "1966", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_wide-222daaa495b1967c1f5b18c3e93a439a1fb0bbb8.jpg", 
+                                "type": "wide", 
+                                "width": "3500"
+                            }, 
+                            {
+                                "height": "2434", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_custom-e2d2fc272b736d3a5f3b39fb8ee59b60ef7026df.jpg", 
+                                "type": "enlargement", 
+                                "width": "3500"
+                            }, 
+                            {
+                                "height": "2434", 
+                                "primary": "true", 
+                                "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_custom-e2d2fc272b736d3a5f3b39fb8ee59b60ef7026df.jpg", 
+                                "type": "custom", 
+                                "width": "3500"
+                            }
+                        ], 
+                        "enlargement": {
+                            "caption": {}, 
+                            "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_custom-e2d2fc272b736d3a5f3b39fb8ee59b60ef7026df.jpg"
+                        }, 
+                        "hasBorder": "false", 
+                        "id": "323188631", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "producer": {
+                            "$text": "Gleb Garanich"
+                        }, 
+                        "provider": {
+                            "$text": "Reuters/Landov", 
+                            "url": ""
+                        }, 
+                        "src": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_custom-e2d2fc272b736d3a5f3b39fb8ee59b60ef7026df.jpg?s=12", 
+                        "title": {
+                            "$text": "Ukrainian President Petro Poroshenko (far right) attends a graduation ceremony at the National University of Defense of Ukraine in Kiev on Wednesday. In a speech there, the president said he is ordering a cease-fire in the struggle against armed militants."
+                        }, 
+                        "type": "primary", 
+                        "width": "200"
+                    }
+                ], 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 10:58:34 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/blogs/thetwo-way/2014/06/18/323184470/ukraine-s-president-orders-unilateral-ceasefire?ft=3&f=1124", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323184470&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1nfiwNj", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "201492995", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/201492995/news-updates?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=201492995&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "News Updates"
+                        }, 
+                        "type": "collection"
+                    }, 
+                    {
+                        "id": "127602464", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/templates/story/story.php?storyId=127602464&ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127602464&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "International"
+                        }, 
+                        "type": "category"
+                    }, 
+                    {
+                        "id": "126978660", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/126978660/ukraine?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=126978660&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Ukraine"
+                        }, 
+                        "type": "tag"
+                    }, 
+                    {
+                        "id": "126935624", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/126935624/russia?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=126935624&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Russia"
+                        }, 
+                        "type": "tag"
+                    }, 
+                    {
+                        "id": "103943429", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/blogs/thetwo-way/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103943429&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "The Two-Way"
+                        }, 
+                        "type": "blog"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1002", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1001", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "News"
+                        }, 
+                        "type": "topic"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 10:58:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "The Two-Way"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 08:25:00 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "The break in action is to give armed separatists time to lay down their weapons, President Petro Poroshenko says."
+                }, 
+                "text": {
+                    "paragraph": [
+                        {
+                            "$text": "President Petro Poroshenko, whose rise to power in Ukraine coincided with an aggressive crackdown on separatist militants, is calling for a temporary cease-fire by government forces. The break in action would allow the armed opposition to lay down their weapons, Poroshenko says.", 
+                            "num": "1"
+                        }, 
+                        {
+                            "$text": "The cease-fire will begin in \"the next few days,\" Reuters reports, citing a Ukrainian defense official. The plan was announced during an appearance by Poroshenko at a military academy Wednesday.", 
+                            "num": "2"
+                        }, 
+                        {
+                            "$text": "From the Kyiv Post:", 
+                            "num": "3"
+                        }, 
+                        {
+                            "$text": "\"Poroshenko declared that 'Ukraine is in a state of war,' and that Russia is waging 'a new type of warfare \u2014 with the use of professional subversive groups, mercenaries, volunteers, and the local population. And these volunteers and the local population have \"washed\" brains in a huge part due to the information war.' \"", 
+                            "num": "4"
+                        }, 
+                        {
+                            "$text": "Poroshenko announced his plan for a cease-fire one day after speaking with Russia's President Vladimir Putin by phone.", 
+                            "num": "5"
+                        }, 
+                        {
+                            "$text": "\"The Kremlin says Putin expressed concern over the deaths of two Russian state television journalists who were killed during clashes between Ukraine's government and pro-Russian rebels in Luhansk,\" NPR's Jessica Golloher reports from Moscow.", 
+                            "num": "6"
+                        }, 
+                        {
+                            "$text": "The cease-fire is part of a plan that Poroshenko said should include peace talks with separatist groups in Donetsk and other areas where people are seeking to break away from Ukraine's central government.", 
+                            "num": "7"
+                        }, 
+                        {
+                            "$text": "Ukraine's armed struggle with separatist groups has now been going on for months, as separatists have maintained control of government buildings in the country's eastern region close to its border with Russia. [Copyright 2014 NPR]", 
+                            "num": "8"
+                        }
+                    ]
+                }, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "$text": "President Petro Poroshenko, whose rise to power in Ukraine coincided with an aggressive crackdown on separatist militants, is calling for a temporary cease-fire by government forces. The break in action would allow the armed opposition to lay down their weapons, Poroshenko says.", 
+                            "num": "1"
+                        }, 
+                        {
+                            "$text": "The cease-fire will begin in \"the next few days,\" <a href=\"http://www.reuters.com/article/2014/06/18/us-ukraine-crisis-putin-idUSKBN0ET0C920140618\">Reuters</a> reports, citing a Ukrainian defense official. The plan was announced during an appearance by Poroshenko at a military academy Wednesday.", 
+                            "num": "2"
+                        }, 
+                        {
+                            "$text": "From the <a href=\"http://www.kyivpost.com/content/ukraine/poroshenko-ukraine-is-in-a-state-of-war-352362.html\">Kyiv Post</a>:", 
+                            "num": "3"
+                        }, 
+                        {
+                            "$text": "\"Poroshenko declared that 'Ukraine is in a state of war,' and that Russia is waging 'a new type of warfare \u2014 with the use of professional subversive groups, mercenaries, volunteers, and the local population. And these volunteers and the local population have \"washed\" brains in a huge part due to the information war.' \"", 
+                            "num": "4"
+                        }, 
+                        {
+                            "$text": "Poroshenko announced his plan for a cease-fire one day after speaking with Russia's President Vladimir Putin by phone.", 
+                            "num": "5"
+                        }, 
+                        {
+                            "$text": "\"The Kremlin says Putin expressed concern over the deaths of two Russian state television journalists who were killed during clashes between Ukraine's government and pro-Russian rebels in Luhansk,\" NPR's Jessica Golloher reports from Moscow.", 
+                            "num": "6"
+                        }, 
+                        {
+                            "$text": "The cease-fire is part of a plan that Poroshenko said should include peace talks with separatist groups in Donetsk and other areas where people are seeking to break away from Ukraine's central government.", 
+                            "num": "7"
+                        }, 
+                        {
+                            "$text": "Ukraine's armed struggle with separatist groups has now been going on for months, as separatists have maintained control of government buildings in the country's eastern region close to its border with Russia.  <div class=\"fullattribution\">Copyright 2014 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ukraine%27s+President+Announces+Plan+For+Unilateral+Cease-Fire&utme=8(APIKey)9(MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001)\"/></div>", 
+                            "num": "8"
+                        }
+                    ]
+                }, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_sq-4086dedcdb8aa0614fa065901d444531f41998d5.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "http://media.npr.org/assets/img/2014/06/18/ukraine_poroshenko_sq-4086dedcdb8aa0614fa065901d444531f41998d5.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "Reuters/Landov"
+                    }
+                }, 
+                "title": {
+                    "$text": "Ukraine's President Announces Plan For Unilateral Cease-Fire"
+                }
+            }, 
+            {
+                "audio": [
+                    {
+                        "description": {}, 
+                        "duration": {
+                            "$text": "103"
+                        }, 
+                        "format": {
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2014/06/20140618_me_as_exasperation_mounts_french_rail_strike_turns_violent.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1323166110-7c54b1.m3u?orgId=1&topicId=1006&ft=3&f=1124", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "http://pd.npr.org/npr-mp4/npr/me/2014/06/20140618_me_as_exasperation_mounts_french_rail_strike_turns_violent.mp4?orgId=1&topicId=1006&ft=3&f=1124"
+                            }, 
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=323166110&type=1&mtype=WM&orgId=1&topicId=1006&ft=3&f=1124"
+                            }
+                        }, 
+                        "id": "323166110", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }, 
+                        "rightsHolder": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "title": {}, 
+                        "type": "primary"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323166704", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/17796129/eleanor-beardsley?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=17796129&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "name": {
+                            "$text": "Eleanor Beardsley", 
+                            "personId": "17796129"
+                        }
+                    }
+                ], 
+                "id": "323166109", 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 05:28:11 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/06/18/323166109/as-exasperation-mounts-french-rail-strike-turns-violent?ft=3&f=1124", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323166109&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1kMLBOG", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "323160066", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/2014/06/18/323160066?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=323160066&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Morning Edition for June 18, 2014"
+                        }, 
+                        "type": "unknown"
+                    }, 
+                    {
+                        "id": "1124", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/europe/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1124&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Europe"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1006", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/business/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1006&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "Business"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1006", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/business/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1006&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Business"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "3", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/?ft=3&f=1124", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=3&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Morning Edition"
+                        }, 
+                        "type": "program"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 07:09:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "Business"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 05:08:00 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "The French rail strike has enters it second week and train workers have clashed with riot police in Paris. The latest poll shows the striking train drivers are losing public support."
+                }, 
+                "title": {
+                    "$text": "As Exasperation Mounts, French Rail Strike Turns Violent"
+                }, 
+                "transcript": {
+                    "link": {
+                        "$text": "http://api.npr.org/transcript?id=323166109&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }
+                }
+            }
+        ], 
+        "teaser": {
+            "$text": "Europe"
+        }, 
+        "title": {
+            "$text": "NPR Topics: Europe"
+        }
+    }, 
+    "version": "0.94"
+}

@@ -1,0 +1,637 @@
+{
+    "list": {
+        "link": [
+            {
+                "$text": "http://api.npr.org/query?id=1127&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                "type": "api"
+            }, 
+            {
+                "$text": "http://www.npr.org/sections/latin-america/?ft=3&f=1127", 
+                "type": "html"
+            }
+        ], 
+        "miniTeaser": {
+            "$text": "Latin America"
+        }, 
+        "story": [
+            {
+                "audio": [
+                    {
+                        "description": {}, 
+                        "duration": {}, 
+                        "format": {}, 
+                        "id": "323351122", 
+                        "permissions": {
+                            "download": {
+                                "allow": "false"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }, 
+                        "rightsHolder": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "title": {}, 
+                        "type": "primary"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323353199", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/7569853/russell-lewis?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=7569853&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "name": {
+                            "$text": "Russell Lewis", 
+                            "personId": "7569853"
+                        }
+                    }
+                ], 
+                "id": "323351120", 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 16:22:58 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/06/18/323351120/in-brazil-predictions-of-doom-and-gloom-give-way-to-minor-annoyances?ft=3&f=1127", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323351120&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1nhjVD3", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "323160069", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/2014/06/18/323160069?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=323160069&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "All Things Considered for June 18, 2014"
+                        }, 
+                        "type": "unknown"
+                    }, 
+                    {
+                        "id": "1127", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/latin-america/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1127&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Latin America"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1055", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/sports/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1055&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "Sports"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1055", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/sports/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1055&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Sports"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "2", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=2&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "All Things Considered"
+                        }, 
+                        "type": "program"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 16:32:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "Sports"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 16:22:58 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "Brazil's World Cup preparation endured some heavy criticism leading up to the games. Stadiums were still under construction, Internet connections were sketchy and transportation faced major challenges. A week into the tournament, NPR's Russell Lewis has traveled to three airports and three cities so far. He talks to Melissa Block about what has worked and what remains a challenge."
+                }, 
+                "title": {
+                    "$text": "In Brazil, Predictions Of Doom And Gloom Give Way To Minor Annoyances"
+                }
+            }, 
+            {
+                "audio": [
+                    {
+                        "description": {}, 
+                        "duration": {
+                            "$text": "698"
+                        }, 
+                        "format": {
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/tmm/2014/06/20140618_tmm_immigration_judge.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1323211279-3ff70f.m3u?orgId=1&topicId=1070&ft=3&f=1127", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "http://pd.npr.org/npr-mp4/npr/tmm/2014/06/20140618_tmm_immigration_judge.mp4?orgId=1&topicId=1070&ft=3&f=1127"
+                            }, 
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=323211279&type=1&mtype=WM&orgId=1&topicId=1070&ft=3&f=1127"
+                            }
+                        }, 
+                        "id": "323211279", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }, 
+                        "rightsHolder": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "title": {}, 
+                        "type": "primary"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "id": "323211278", 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 14:25:31 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/06/18/323211278/when-unaccompanied-children-cross-the-border-judges-cant-always-help?ft=3&f=1127", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323211278&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1ng2qmu", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "323211277", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/tell-me-more/2014/06/18/323211277/tell-me-more-for-june-18-2014?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=323211277&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Tell Me More for June 18, 2014"
+                        }, 
+                        "type": "unknown"
+                    }, 
+                    {
+                        "id": "1127", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/latin-america/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1127&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Latin America"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1003", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "U.S."
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1001", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "News"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "46", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/tell-me-more/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=46&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Tell Me More"
+                        }, 
+                        "type": "program"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 14:55:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "Law"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 14:25:31 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "With thousands of unaccompanied children crossing the U.S.-Mexico border, immigration judges are faced with deciding who stays and who goes. Host Michel Martin examines the court process."
+                }, 
+                "title": {
+                    "$text": "When Unaccompanied Children Cross The Border, Judges Can't Always Help"
+                }
+            }, 
+            {
+                "audio": [
+                    {
+                        "description": {}, 
+                        "duration": {
+                            "$text": "231"
+                        }, 
+                        "format": {
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2014/06/20140618_me_most_brazilians_put_hosting_troubles_behind_them_relish_world_cup.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1323166075-2d3545.m3u?orgId=1&topicId=1055&ft=3&f=1127", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "http://pd.npr.org/npr-mp4/npr/me/2014/06/20140618_me_most_brazilians_put_hosting_troubles_behind_them_relish_world_cup.mp4?orgId=1&topicId=1055&ft=3&f=1127"
+                            }, 
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=323166075&type=1&mtype=WM&orgId=1&topicId=1055&ft=3&f=1127"
+                            }
+                        }, 
+                        "id": "323166075", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }, 
+                        "rightsHolder": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "title": {}, 
+                        "type": "primary"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "byline": [
+                    {
+                        "id": "323167145", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/4462099/lourdes-garcia-navarro?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=4462099&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "name": {
+                            "$text": "Lourdes Garcia-Navarro", 
+                            "personId": "4462099"
+                        }
+                    }
+                ], 
+                "id": "323166074", 
+                "keywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Wed, 18 Jun 2014 05:17:18 -0400"
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/06/18/323166074/troubles-put-aside-brazilians-embrace-world-cup?ft=3&f=1127", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=323166074&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1kMLz9j", 
+                        "type": "short"
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "organization": [
+                    {
+                        "name": {
+                            "$text": "NPR"
+                        }, 
+                        "orgAbbr": "NPR", 
+                        "orgId": "1", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }
+                    }
+                ], 
+                "parent": [
+                    {
+                        "id": "323160066", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/2014/06/18/323160066?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=323160066&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Morning Edition for June 18, 2014"
+                        }, 
+                        "type": "unknown"
+                    }, 
+                    {
+                        "id": "1127", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/latin-america/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1127&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Latin America"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1055", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/sports/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1055&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "slug": "true", 
+                        "title": {
+                            "$text": "Sports"
+                        }, 
+                        "type": "primaryTopic"
+                    }, 
+                    {
+                        "id": "1055", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/sports/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1055&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Sports"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "1004", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "World"
+                        }, 
+                        "type": "topic"
+                    }, 
+                    {
+                        "id": "3", 
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/?ft=3&f=1127", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=3&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Morning Edition"
+                        }, 
+                        "type": "program"
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "pubDate": {
+                    "$text": "Wed, 18 Jun 2014 07:09:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "slug": {
+                    "$text": "Sports"
+                }, 
+                "storyDate": {
+                    "$text": "Wed, 18 Jun 2014 05:17:18 -0400"
+                }, 
+                "subtitle": {}, 
+                "teaser": {
+                    "$text": "In World Cup action Tuesday, Brazil and Mexico played to a draw. Despite the dashed hopes of the home team, Brazilians are feeling more buoyant generally about hosting soccer's biggest tournament."
+                }, 
+                "title": {
+                    "$text": "Troubles Put Aside, Brazilians Embrace World Cup"
+                }, 
+                "transcript": {
+                    "link": {
+                        "$text": "http://api.npr.org/transcript?id=323166074&apiKey=MDE0MzQwNzMxMDE0MDI0MjU5MDZmNzQ0YQ001", 
+                        "type": "api"
+                    }
+                }
+            }
+        ], 
+        "teaser": {
+            "$text": "Latin America"
+        }, 
+        "title": {
+            "$text": "NPR Topics: Latin America"
+        }
+    }, 
+    "version": "0.94"
+}

@@ -12,10 +12,12 @@ NPR_API_KEY = os.environ.get('NPR_API_KEY', 'INPUT_NPR_API_KEY_HERE')
 date_stamp = datetime.datetime.fromtimestamp(time.time()).strftime('%y-%m-%d')
 
 class nprStoryData(object):
-	def __init__(self, id=None, numResults=None, requiredAssets=None, date=date_stamp):
+	def __init__(self, id=None, numResults=None, requiredAssets=None, date=date_stamp, startDate=None, endDate=None):
+		if startDate != None or endDate != None:
+			date = None
 		self.API_KEY = NPR_API_KEY
 		self.url = 'http://api.npr.org/query?apiKey=' + self.API_KEY + '&format=json'
-		self.parameters = {'id': id,'numResults': numResults, 'requiredAssets': requiredAssets, 'date': date}
+		self.parameters = {'id': id,'numResults': numResults, 'requiredAssets': requiredAssets, 'date': date, 'startDate': startDate, 'endDate':endDate}
 		self.json = None
 	def get_json(self):
 		"""Makes a get request to npr API server and asks for JSON as reply."""

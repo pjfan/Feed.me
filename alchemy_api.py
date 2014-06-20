@@ -24,9 +24,9 @@ class AlchemyAPIData(object):
 		highest_relevance = 0
 		geo_data = ""
 		for entity in self.json['entities']:
-			if entity['type'] == 'Country' and entity['relevance'] > highest_relevance and entity['disambiguated']['geo']:
+			if (entity['type'] == 'Country' or entity['type'] == 'City') and entity['relevance'] > highest_relevance:
 				highest_relevance = entity['relevance']
-				geo_data = entity['disambiguated']['geo']
+				geo_data = entity['text']
 		return geo_data
 
 

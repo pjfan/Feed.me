@@ -1,0 +1,72 @@
+[
+    {
+        "date": "Tue, 01 Jul 2014 18:00:00 -0400", 
+        "description": "Tens of thousands of Central American children have been detained this year crossing the U.S.-Mexico border. Many will now enter a legal system where cases can take 18 months or longer to resolve.", 
+        "geo_data": {
+            "latitude": "31.3643135", 
+            "longitude": "-110.933576819252"
+        }, 
+        "location": "Nogales, United States", 
+        "reporter": [
+            "John Burnett"
+        ], 
+        "title": "Influx Of Children Creates New Strain On Beleaguered Immigration Courts", 
+        "url": "http://www.npr.org/blogs/codeswitch/2014/07/01/327341630/influx-of-children-creates-new-strain-on-beleaguered-immigration-courts?ft=3&f=1127"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 16:27:00 -0400", 
+        "description": "On Tuesday, Argentinian World Cup fans are descending on Sao Paulo, Brazil. Love them or loathe them, these fans are renowned for both their passion and rowdiness.", 
+        "geo_data": {
+            "latitude": "-23.5503279", 
+            "longitude": "-46.6339647"
+        }, 
+        "location": "Sao Paulo, Brazil", 
+        "reporter": [
+            "Lourdes Garcia-Navarro"
+        ], 
+        "title": "Argentinian World Cup Fans Plant Their Flag In Brazil", 
+        "url": "http://www.npr.org/2014/07/01/327369414/argentinian-world-cup-fans-plant-their-flag-in-brazil?ft=3&f=1127"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 05:09:00 -0400", 
+        "description": "The appeals court ruled that the teenager shot and killed on U.S. soil can claim constitutional protection. The ruling reverses part of a lower court decision in a lawsuit filed by the boy's family.", 
+        "geo_data": {
+            "latitude": "31.7600372", 
+            "longitude": "-106.487287"
+        }, 
+        "location": "El Paso, United States", 
+        "reporter": [
+            "John Burnett"
+        ], 
+        "title": "U.S. Court: Mexican Teen Killed By Border Patrol Had Rights", 
+        "url": "http://www.npr.org/2014/07/01/327199140/u-s-court-mexican-teen-killed-by-border-patrol-had-rights?ft=3&f=1127"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 05:09:00 -0400", 
+        "description": "Most Brazilians speak English and Spanish with an accent. But Brazilians seem to take great offense to World Cup visitors speaking Portuguese with an accent.", 
+        "geo_data": {
+            "latitude": "-22.9112163", 
+            "longitude": "-43.2093781"
+        }, 
+        "location": "Rio, Brazil", 
+        "reporter": [
+            "Lourdes Garcia-Navarro"
+        ], 
+        "title": "Rivalry: Spanish Speakers Flood Portuguese-Speaking Brazil", 
+        "url": "http://www.npr.org/2014/07/01/327199105/rivalry-spanish-speakers-flood-portuguese-speaking-brazil?ft=3&f=1127"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 05:09:00 -0400", 
+        "description": "The U.S. men's soccer team is back in action on Tuesday at the World Cup in Brazil. There is no room for error in the match against Belgium \u2014 lose and the U.S. team is finished.", 
+        "geo_data": {
+            "latitude": "-12.9816356", 
+            "longitude": "-38.4820771"
+        }, 
+        "location": "Salvador, Brazil", 
+        "reporter": [
+            "Tom Goldman"
+        ], 
+        "title": "U.S. Plays Belgium In World Cup's Knockout Stage", 
+        "url": "http://www.npr.org/2014/07/01/327199098/u-s-plays-belgium-in-world-cups-knockout-stage?ft=3&f=1127"
+    }
+]

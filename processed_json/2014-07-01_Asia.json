@@ -1,0 +1,44 @@
+[
+    {
+        "date": "Tue, 01 Jul 2014 16:10:45 -0400", 
+        "description": "Over 100,000 residents of Hong Kong marched to demand greater freedom in choosing their leaders. The protest comes on the 17th anniversary of the return of Hong Kong to Chinese rule.", 
+        "geo_data": {
+            "latitude": "22.2793278", 
+            "longitude": "114.1628131"
+        }, 
+        "location": "Hong Kong, China", 
+        "reporter": [
+            "Anthony Kuhn"
+        ], 
+        "title": "Marchers Take To Streets Of Hong Kong To Protest Eroding Autonomy", 
+        "url": "http://www.npr.org/2014/07/01/327369358/marchers-take-to-streets-of-hong-kong-to-protest-eroding-autonomy?ft=3&f=1125"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 09:16:00 -0400", 
+        "description": "Activists are threatening to blockade the city's financial district unless China allows a free and fair vote to elect Hong Kong's leader.", 
+        "geo_data": {
+            "latitude": "22.2793278", 
+            "longitude": "114.1628131"
+        }, 
+        "location": "Hong Kong, China", 
+        "reporter": [
+            "Bill Chappell"
+        ], 
+        "title": "Thousands Rally In Hong Kong To Call For Democratic Vote", 
+        "url": "http://www.npr.org/blogs/thetwo-way/2014/07/01/327226527/thousands-rally-in-hong-kong-to-call-for-democratic-vote?ft=3&f=1125"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 05:09:00 -0400", 
+        "description": "Thousands of demonstrators are expected march on Tuesday to demand greater freedom in choosing their leaders. The protest comes on the 17th anniversary of the return of Hong Kong to Chinese rule.", 
+        "geo_data": {
+            "latitude": "22.2793278", 
+            "longitude": "114.1628131"
+        }, 
+        "location": "Hong Kong, China", 
+        "reporter": [
+            "Anthony Kuhn"
+        ], 
+        "title": "Democracy Protesters In Hong Kong Call For Free Elections", 
+        "url": "http://www.npr.org/2014/07/01/327199091/democracy-protesters-take-to-the-streets-of-hong-kong?ft=3&f=1125"
+    }
+]

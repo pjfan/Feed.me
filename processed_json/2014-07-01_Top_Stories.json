@@ -1,0 +1,130 @@
+[
+    {
+        "date": "Tue, 01 Jul 2014 19:02:00 -0400", 
+        "description": "At a time when congressional approval ratings are at rock bottom, the House Ethics Committee quietly made it harder to track privately financed trips taken by members of Congress.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Frank James"
+        ], 
+        "title": "Another Day, Another Reason For Voters To Loathe Congress", 
+        "url": "http://www.npr.org/blogs/itsallpolitics/2014/07/01/327375435/another-day-another-reason-for-voters-to-loathe-congress?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 19:01:00 -0400", 
+        "description": "Indigenous children from Guatemala who arrive at the border speaking little or no Spanish present complications to officials and attorneys who are better primed to serve Spanish-speaking immigrants.", 
+        "geo_data": {
+            "latitude": "15.6356088", 
+            "longitude": "-89.8988087"
+        }, 
+        "location": "Guatemala", 
+        "reporter": [
+            "Hansi Lo Wang"
+        ], 
+        "title": "Language Barriers Pose Challenges For Mayan Migrant Children ", 
+        "url": "http://www.npr.org/blogs/codeswitch/2014/07/01/326426927/language-barriers-pose-challenges-for-mayan-migrant-children?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 18:23:00 -0400", 
+        "description": "Native Hawaiians on the police force have criticized the ban. Many say tattoos are part of their cultural heritage and should remain in plain sight.", 
+        "geo_data": {
+            "latitude": "21.304547", 
+            "longitude": "-157.8556764"
+        }, 
+        "location": "Honolulu", 
+        "reporter": [
+            "Wayne Yoshioka"
+        ], 
+        "title": "Honolulu Police Chief's Ban On Visible Tattoos Sparks Criticism", 
+        "url": "http://www.npr.org/blogs/codeswitch/2014/07/01/327249018/honolulu-police-chiefs-ban-on-visible-tattoos-sparks-criticism?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 18:00:00 -0400", 
+        "description": "Tens of thousands of Central American children have been detained this year crossing the U.S.-Mexico border. Many will now enter a legal system where cases can take 18 months or longer to resolve.", 
+        "geo_data": {
+            "latitude": "31.3643135", 
+            "longitude": "-110.933576819252"
+        }, 
+        "location": "Nogales, United States", 
+        "reporter": [
+            "John Burnett"
+        ], 
+        "title": "Influx Of Children Creates New Strain On Beleaguered Immigration Courts", 
+        "url": "http://www.npr.org/blogs/codeswitch/2014/07/01/327341630/influx-of-children-creates-new-strain-on-beleaguered-immigration-courts?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 17:37:00 -0400", 
+        "description": "The University of California, Davis is the source of most commercial strawberries. Now, the university's strawberry breeders are going into business for themselves, and farmers are worried.", 
+        "geo_data": {
+            "latitude": "38.545379", 
+            "longitude": "-121.7445835"
+        }, 
+        "location": "Davis, United States", 
+        "reporter": [
+            "Dan Charles"
+        ], 
+        "title": "Breeding Battle Threatens Key Source Of California Strawberries", 
+        "url": "http://www.npr.org/blogs/thesalt/2014/07/01/327256662/breeding-battle-threatens-key-source-of-california-strawberries?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 16:38:00 -0400", 
+        "description": "You don't necessarily have to waste your days regretting the mistakes of your youth. People who drop bad habits by their 40s can slow or even reverse damage done to their arteries, a study finds.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Maanvi Singh"
+        ], 
+        "title": "A Misspent Youth Doesn't Doom You To Heart Disease", 
+        "url": "http://www.npr.org/blogs/health/2014/07/01/327283286/a-misspent-youth-doesnt-doom-you-to-heart-disease?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 16:08:00 -0400", 
+        "description": "Phox frontwoman Monica Martin has an impeccable voice. But if it weren't for bandmate Matt Holmen and the rest of the Wisconsin band, it might have stayed hidden.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "NPR Staff"
+        ], 
+        "title": "On Its Confident Debut, Phox Puts A Reluctant Voice Front And Center", 
+        "url": "http://www.npr.org/2014/07/01/325189238/on-its-confident-debut-phox-puts-a-reluctant-voice-front-and-center?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 15:52:00 -0400", 
+        "description": "After an NPR/ProPublica investigation, military officials have decided to exhume the bodies of 11 World War II servicemen who are buried in an American war cemetery in the Philippines.", 
+        "geo_data": {
+            "latitude": "13.396", 
+            "longitude": "121.0984"
+        }, 
+        "location": "Chicago, Philippines", 
+        "reporter": [
+            "Megan McCloskey, ProPublica"
+        ], 
+        "title": "Pentagon Decides To Dig Up Remains Of Long-Lost Soldier", 
+        "url": "http://www.npr.org/blogs/thetwo-way/2014/07/01/327346898/pentagon-decides-to-dig-up-remains-of-long-lost-soldier?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 15:44:00 -0400", 
+        "description": "Astrophysicist Adam Frank shares his summer reading list. As one would expect, it's heavy on science fiction and soul searching.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Adam Frank"
+        ], 
+        "title": "Spaceship Battles, Alien Worlds And Robots!", 
+        "url": "http://www.npr.org/blogs/13.7/2014/07/01/326936617/spaceship-battles-alien-worlds-and-robots?ft=3&f=1002"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 15:36:00 -0400", 
+        "description": "For the first time, a computer passed the test for machines engaging in intelligent thought. Linguist Geoff Nunberg says the real test is whether computers can behave the same way thinking people do.", 
+        "geo_data": {
+            "latitude": "51.5072759", 
+            "longitude": "-0.1276597"
+        }, 
+        "location": "London", 
+        "reporter": [
+            "Geoff Nunberg"
+        ], 
+        "title": "Do Feelings Compute? If Not, The Turing Test Doesn't Mean Much", 
+        "url": "http://www.npr.org/blogs/alltechconsidered/2014/07/01/323984864/do-feelings-compute-if-not-the-turing-test-doesnt-mean-much?ft=3&f=1002"
+    }
+]

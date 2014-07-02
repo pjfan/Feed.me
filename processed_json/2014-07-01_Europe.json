@@ -1,0 +1,58 @@
+[
+    {
+        "date": "Tue, 01 Jul 2014 16:10:00 -0400", 
+        "description": "The crisis in Ukraine is starting to take a psychological toll on citizens, including those who aren't near the fighting in the country's eastern provinces. Many Ukrainians say they now feel their country is at war with Russia and that they're prepared to make sacrifices for Ukraine's independence. Recent polling data shows that even in the east of the country, most people support keeping the country unified.", 
+        "geo_data": {
+            "latitude": "50.4499875", 
+            "longitude": "30.5234937"
+        }, 
+        "location": "Kiev, Ukraine", 
+        "reporter": [
+            "Corey Flintoff"
+        ], 
+        "title": "In Long-Roiled Ukraine, War Mentality Turns Outward", 
+        "url": "http://www.npr.org/2014/07/01/327369365/in-long-roiled-ukraine-war-mentality-turns-outward?ft=3&f=1124"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 11:00:00 -0400", 
+        "description": "The European Court of Human Rights ruled that France's ban on face-covering veils was legitimate, and did not violate a Muslim woman's freedoms.", 
+        "geo_data": {
+            "latitude": "48.584614", 
+            "longitude": "7.7507127"
+        }, 
+        "location": "Strasbourg, France", 
+        "reporter": [
+            "Krishnadev Calamur"
+        ], 
+        "title": "European Court Upholds France's Burqa Ban", 
+        "url": "http://www.npr.org/blogs/thetwo-way/2014/07/01/327248799/european-court-upholds-frances-burqa-ban?ft=3&f=1124"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 07:55:00 -0400", 
+        "description": "Suspicions about Nicolas Sarkozy's fundraising activities also touch on late Libyan dictator Moammar Gadhafi and the heiress to the L'Oreal fortune.", 
+        "geo_data": {
+            "latitude": "48.8924273", 
+            "longitude": "2.2071267"
+        }, 
+        "location": "Nanterre, France", 
+        "reporter": [
+            "Bill Chappell"
+        ], 
+        "title": "France's Former President Sarkozy Taken Into Custody", 
+        "url": "http://www.npr.org/blogs/thetwo-way/2014/07/01/327218846/france-s-former-president-sarkozy-taken-into-custody?ft=3&f=1124"
+    }, 
+    {
+        "date": "Tue, 01 Jul 2014 05:09:33 -0400", 
+        "description": "BNP Paribas pleaded guilty to violating U.S. sanctions law. It admitted that it helped clients in Sudan and other countries evade U.S. trade embargoes through its New York office.", 
+        "geo_data": {
+            "latitude": "40.7305991", 
+            "longitude": "-73.9865812"
+        }, 
+        "location": "New York, United States", 
+        "reporter": [
+            "Jim Zarroli"
+        ], 
+        "title": "French Bank To Pay $8.83 Billion In Sanctions Probe", 
+        "url": "http://www.npr.org/2014/07/01/327199112/french-bank-to-pay-8-83-billion-in-sanctions-probe?ft=3&f=1124"
+    }
+]

@@ -3,6 +3,8 @@
 
 A simple Python application created for the purpose of practicing using API's and Git/Github. Uses the NPR The Story API to GET info about NPR stories in the form of Json. Uses the Alchemy Natural Language Processing API to parse location data out of the NPR story text. Obtains Latitutde/Longitude data using the OpenStreetMaps nominatim geo-coding service hosted on MapQuest's servers. Maps story data onto map using Leaflet.js.
 
+<br>
+<br>
 <b>Instructions:</b> 
 
 open up grab_story.py and look for the command at bottom:
@@ -18,7 +20,8 @@ Then run grab_story.py (by typing python grab_story.py at the command line.)
 Open up the map and the story data should be plotted on the map. There's a rate limit to how much you can send requests to the MapQuest API for geo-coding and the Alchemy API for language processing. The Alchemy and NPR API's both require API keys which can be obtained by making an
 account on their respective web-sites.
 
-
+<br>
+<br>
 <b>Good resources for developing this app further:</b>
 
 Developer resources (adding additional criteria to API call): http://dev.npr.org/

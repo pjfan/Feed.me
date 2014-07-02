@@ -3,7 +3,9 @@
 
 A simple Python application created for the purpose of practicing using API's and Git/Github. Uses the NPR The Story API to GET info about NPR stories in the form of Json. Uses the Alchemy Natural Language Processing API to parse location data out of the NPR story text.
 
-Instructions: open up grab_story.py and look for the command at bottom:
+<b>Instructions:</b> 
+
+open up grab_story.py and look for the command at bottom:
 
 MapDataGenerator('1002').parse_json_to_file('Top_Stories')
 
@@ -17,7 +19,7 @@ Open up the map and the story data should be plotted on the map. There's a rate 
 account on their respective web-sites.
 
 
-Good resources for developing this app further:
+<b>Good resources for developing this app further:</b>
 
 Developer resources (adding additional criteria to API call): http://dev.npr.org/
 

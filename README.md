@@ -1,4 +1,4 @@
-<h1> Public Radio News Mapper </h1>
+<h1> FeedMe </h1>
 
 
 A simple Python application created for the purpose of practicing using API's and Git/Github. Uses the NPR The Story API to GET info about NPR stories in the form of Json. Uses the Alchemy Natural Language Processing API to parse location data out of the NPR story text. Obtains Latitutde/Longitude data using the OpenStreetMaps nominatim geo-coding service hosted on MapQuest's servers. Maps story data onto map using Leaflet.js.

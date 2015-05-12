@@ -16,7 +16,7 @@ A simple Python application created for the purpose of practicing using API's an
 <b>Possible Future updates:</b><br>
 -Making a nicer HTML e-mail format.<br>
 -Incorporating more news sources.<br>
--Finding creative uses for the geo data. (Including a map of news stories embedded in the e-mail. Possibly using Leaflet.js or Google Maps.)
+-Finding creative uses for the geo data. (Including a map of news stories embedded in the e-mail. Possibly using Leaflet.js or Google Maps.)<br>
 -Automate how often the e-mails are sent using a Cron script.
 
 <b>Other Resources:</b>

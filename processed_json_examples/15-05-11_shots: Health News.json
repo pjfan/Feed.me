@@ -1,0 +1,139 @@
+[
+    {
+        "date": "Mon, 11 May 2015 17:04:00 -0400", 
+        "description": "A study suggests that coordinated care, led by a family doctor who is judicious about referring patients to specialists, leads to cost savings.", 
+        "geo_data": {
+            "latitude": "37.7792768", 
+            "longitude": "-122.4192704"
+        }, 
+        "location": "San Francisco", 
+        "reporter": [
+            "Anders Kelto"
+        ], 
+        "title": "Family Doctors Who Do More, Save More", 
+        "url": "http://www.npr.org/blogs/health/2015/05/11/405955775/family-doctors-who-do-more-save-more?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Mon, 11 May 2015 16:42:00 -0400", 
+        "description": "About 90 percent of people in Louisiana who signed up for Obamacare got a subsidy. Some worry they won't be able to afford health insurance if the aid is overturned by the Supreme Court.", 
+        "geo_data": {
+            "latitude": "30.4507462", 
+            "longitude": "-91.154551"
+        }, 
+        "location": "Baton Rouge", 
+        "reporter": [
+            "Jeff Cohen"
+        ], 
+        "title": "Tales From 3 Louisianans Who Got Subsidized Health Insurance", 
+        "url": "http://www.npr.org/blogs/health/2015/05/11/405183709/tales-from-3-louisianans-who-got-subsidized-health-insurance?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Mon, 11 May 2015 09:48:00 -0400", 
+        "description": "Long hours in practice might account for the higher concussion risk in high school and college football, a study finds. Some schools are retooling practice to reduce the number of hits.", 
+        "geo_data": {
+            "latitude": "39.7683331", 
+            "longitude": "-86.1583502"
+        }, 
+        "location": "Indianapolis", 
+        "reporter": [
+            "Nancy Shute"
+        ], 
+        "title": "Concussions Can Be More Likely In Practices Than In Games", 
+        "url": "http://www.npr.org/blogs/health/2015/05/04/404163873/concussions-are-most-likely-during-practice-in-high-school-and-college?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Mon, 11 May 2015 03:22:00 -0400", 
+        "description": "Each year more than 12 million Americans go to the doctor because of severe, chronic headaches. Many are sent for expensive tests. Researchers say all this testing isn't doing people much good.", 
+        "geo_data": {
+            "latitude": "52.1363806", 
+            "longitude": "-0.4675041"
+        }, 
+        "location": "Bedford", 
+        "reporter": [
+            "Patti Neighmond"
+        ], 
+        "title": "For Headaches, A Lifestyle Change May Be Better Than A Doctor Visit", 
+        "url": "http://www.npr.org/blogs/health/2015/05/11/404693609/for-headache-pain-a-lifestyle-change-may-be-better-than-a-doctor-visit?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Sun, 10 May 2015 05:51:00 -0400", 
+        "description": "A California city with a crime problem \u2014 shootings, drug dealing and gang activity \u2014 finds that getting more kids and cops playing sports together regularly in the park can make a big difference.", 
+        "geo_data": {
+            "latitude": "37.4688273", 
+            "longitude": "-122.1410751"
+        }, 
+        "location": "East Palo Alto", 
+        "reporter": [
+            "Jeremy Raff"
+        ], 
+        "title": "Can Volleyball Fight Crime? East Palo Alto Says, 'Game On'", 
+        "url": "http://www.npr.org/blogs/health/2015/05/10/404660718/can-volleyball-fight-crime-east-palo-alto-says-game-on?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Fri, 08 May 2015 11:51:00 -0400", 
+        "description": "Childhood vaccination remains a potent public health weapon against the spread of many illnesses, including measles. But an NPR poll finds objections and worries about vaccination remain, too.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Scott Hensley"
+        ], 
+        "title": "Despite Recent Measles Outbreak, Resistance To Vaccinations Persists", 
+        "url": "http://www.npr.org/blogs/health/2015/05/08/404658720/despite-recent-measles-outbreak-resistance-to-vaccinations-persists?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Fri, 08 May 2015 09:05:00 -0400", 
+        "description": "Miscarriages are common \u2014 but people think they're rare, a survey finds. And they often blame the woman. Readers tell us that those mistaken beliefs make the experience even more painful.", 
+        "geo_data": {
+            "latitude": "55.0252998", 
+            "longitude": "-1.4869496"
+        }, 
+        "location": "New York", 
+        "reporter": [
+            "Katherine Hobson"
+        ], 
+        "title": "People Have Misconceptions About Miscarriage, And That Can Hurt", 
+        "url": "http://www.npr.org/blogs/health/2015/05/08/404913568/people-have-misconceptions-about-miscarriage-and-that-hurts?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Fri, 08 May 2015 04:39:00 -0400", 
+        "description": "The famed Cleveland Clinic is building a new cancer center right around the corner from a competing cancer hospital. Both institutions are confident there will be plenty of patients.", 
+        "geo_data": {
+            "latitude": "41.5051613", 
+            "longitude": "-81.6934446"
+        }, 
+        "location": "Cleveland", 
+        "reporter": [
+            "Sarah Jane Tribble"
+        ], 
+        "title": "Cancer Spawns A Construction Boom In Cleveland", 
+        "url": "http://www.npr.org/blogs/health/2015/05/08/403523980/cancer-spawns-a-construction-boom-in-cleveland?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Thu, 07 May 2015 16:56:00 -0400", 
+        "description": "Afraid of saying the wrong thing to someone with a serious illness? Now there are \"empathy cards\" that make fun of those well-meaning but tasteless remarks.", 
+        "geo_data": {
+            "latitude": "34.053717", 
+            "longitude": "-118.2427266"
+        }, 
+        "location": "Los Angeles", 
+        "reporter": [
+            "Ina Jaffe"
+        ], 
+        "title": "Are You Sick, And Sick Of Hearing 'Everything Happens For A Reason'?", 
+        "url": "http://www.npr.org/blogs/health/2015/05/07/404976537/are-you-sick-and-sick-of-hearing-everything-happens-for-a-reason?ft=nprml&f=103537970"
+    }, 
+    {
+        "date": "Thu, 07 May 2015 16:56:00 -0400", 
+        "description": "Companies are assembling and churning out tailored stretches of DNA faster and more cheaply than ever before. The tool speeds research into diseases of plants and people. But what about eugenics?", 
+        "geo_data": {
+            "latitude": "37.7792768", 
+            "longitude": "-122.4192704"
+        }, 
+        "location": "San Francisco", 
+        "reporter": [
+            "Rob Stein"
+        ], 
+        "title": "DNA 'Printing' A Big Boon To Research, But Some Raise Concerns", 
+        "url": "http://www.npr.org/blogs/health/2015/05/07/404460240/dna-printing-a-big-boon-to-research-but-some-raise-concerns?ft=nprml&f=103537970"
+    }
+]

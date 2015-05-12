@@ -9,10 +9,10 @@ NPR_API_KEY = os.environ.get('NPR_API_KEY', 'INPUT_NPR_API_KEY_HERE')
 
 #default format for response is json
 
-date_stamp = datetime.date.today().strftime('%y-%m-%d')
 
-class nprStoryData(object):
-    def __init__(self, id=None, numResults=None, requiredAssets=None, date=date_stamp, startDate=None, endDate=None):
+class NPRStoryAPIData(object):
+    """This class handles data retrieval from the NPR Story API"""
+    def __init__(self, id=None, numResults=None, requiredAssets=None, date=None, startDate=None, endDate=None):
         if startDate != None or endDate != None:
             date = None
         self.API_KEY = NPR_API_KEY
@@ -24,8 +24,8 @@ class nprStoryData(object):
         request = requests.get(self.url, params=self.parameters)
         self.json = request.json()
         return self.json
-    def json_to_text(self):
+    def save_json_to_file(self):
         self.get_json()
-        with open ("StoryID_" + str(self.parameters['id'])+'_'+self.parameters['date']+'_'+'npr.json','w') as npr_json:
+        with open ("StoryID_" + str(self.parameters['id'])+'_'+self.parameters['date']+'_'+'npr_raw.json','w') as npr_json:
             json.dump(self.json, npr_json, sort_keys=True, indent=4)
 

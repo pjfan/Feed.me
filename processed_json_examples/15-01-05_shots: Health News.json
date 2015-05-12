@@ -1,0 +1,134 @@
+[
+    {
+        "date": "Sun, 04 Jan 2015 05:29:00 -0500", 
+        "description": "Amy Purdy lost both legs below the knee to meningitis at age 19. She's now using her cred as a champion snowboarder to encourage teenagers to get vaccinated.", 
+        "geo_data": {
+            "latitude": "39.7837304", 
+            "longitude": "-100.4458825"
+        }, 
+        "location": "United States", 
+        "reporter": [
+            "Alison Bruzek"
+        ], 
+        "title": "Paralympic Champion Makes The Case For Meningitis Vaccine", 
+        "url": "http://www.npr.org/blogs/health/2015/01/04/372453585/paralympic-champion-makes-the-case-for-meningitis-vaccine?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Sat, 03 Jan 2015 13:22:00 -0500", 
+        "description": "Getting basic health care to rural areas has always been difficult, and delivering specialized care even harder. One doctor is raising money to bring palliative care to patients in rural California.", 
+        "geo_data": {
+            "latitude": "40.7851725", 
+            "longitude": "-124.166555366102"
+        }, 
+        "location": "Eureka", 
+        "reporter": [
+            "April Dembosky"
+        ], 
+        "title": "Rural Doctor Launches Startup To Ease Pain Of Dying Patients", 
+        "url": "http://www.npr.org/blogs/health/2015/01/03/371263308/rural-doctor-launches-startup-to-ease-pain-of-dying-patients?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Fri, 02 Jan 2015 16:18:00 -0500", 
+        "description": "Scientists are growing mock organs made of human cells to better study diseases and help test drugs. Researchers at Johns Hopkins are working on a gut-on-a-chip.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Richard Harris"
+        ], 
+        "title": "Researchers Create Artificial Organs On Microchips", 
+        "url": "http://www.npr.org/blogs/health/2015/01/02/371945110/researchers-create-artificial-organs-on-microchips?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Fri, 02 Jan 2015 07:38:00 -0500", 
+        "description": "Fitness programs typically don't have much staying power. People are already saying adios to Zumba and Pilates. The cheapest and simplest routines are more likely to be keepers. Think down dog.", 
+        "geo_data": {
+            "latitude": "3.4319329", 
+            "longitude": "-76.5113048"
+        }, 
+        "location": "Cali, Colombia", 
+        "reporter": [
+            "Alison Bruzek"
+        ], 
+        "title": "How Will You Work Out When CrossFit Is No Longer Hip?", 
+        "url": "http://www.npr.org/blogs/health/2015/01/02/367832143/how-will-you-work-out-when-crossfits-no-longer-hip?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Thu, 01 Jan 2015 03:49:00 -0500", 
+        "description": "It's been months since a nurse who treated Ebola patients in Africa was quarantined by New Jersey's governor upon arrival at Newark airport. But a legacy of confusion about state travel rules remains.", 
+        "geo_data": {
+            "latitude": "10.4903985", 
+            "longitude": "-85.0206658"
+        }, 
+        "location": "Los Angeles, Liberia", 
+        "reporter": [
+            "Joel Rose"
+        ], 
+        "title": "Ebola Aid Workers Still Avoiding New York And New Jersey", 
+        "url": "http://www.npr.org/blogs/health/2015/01/01/374194902/ebola-aid-workers-still-avoiding-new-york-and-new-jersey?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Wed, 31 Dec 2014 13:23:00 -0500", 
+        "description": "Every state offers quit lines and other aids to help smokers end the habit. Using both telephone and online aids works best, a study finds.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Nancy Shute"
+        ], 
+        "title": "Using Both Quit Lines And Websites Helps Smokers Stop", 
+        "url": "http://www.npr.org/blogs/health/2014/12/31/374172305/using-both-quit-lines-and-web-sites-helps-smokers-stop?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Wed, 31 Dec 2014 10:46:00 -0500", 
+        "description": "In a year filled with gripping health stories, here are the ones that were the most popular with Shots readers. Think beauty pageant queens, pronouns and Ebola.", 
+        "geo_data": {
+            "latitude": "39.1014537", 
+            "longitude": "-84.5124602"
+        }, 
+        "location": "Cincinnati", 
+        "reporter": [
+            "Scott Hensley"
+        ], 
+        "title": "A Look Back At The Top 5 Shots Posts In 2014", 
+        "url": "http://www.npr.org/blogs/health/2014/12/31/373818006/a-look-back-at-the-top-5-shots-posts-in-2014?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Wed, 31 Dec 2014 03:28:00 -0500", 
+        "description": "With two young men dead, the Food and Drug Administration is considering banning sales to consumers of a highly concentrated form of pure caffeine. It's too easy to overdose, officials warn.", 
+        "geo_data": {
+            "latitude": "33.7117095", 
+            "longitude": "-86.8223617494394"
+        }, 
+        "location": "Gardendale", 
+        "reporter": [
+            "Rob Stein"
+        ], 
+        "title": "Potent Powdered Caffeine Raises Safety Worries", 
+        "url": "http://www.npr.org/blogs/health/2014/12/31/371692640/potent-powdered-caffeine-raises-safety-worries?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 30 Dec 2014 11:58:00 -0500", 
+        "description": "In negotiations over the Affordable Care Act, hospitals agreed to cuts in federal payments for uncompensated care in the expectation that millions of people would get Medicaid coverage.", 
+        "geo_data": {
+            "latitude": "47.6038321", 
+            "longitude": "-122.3300624"
+        }, 
+        "location": "Seattle", 
+        "reporter": "unknown", 
+        "title": "Hospitals Win In States That Chose To Expand Medicaid", 
+        "url": "http://www.npr.org/blogs/health/2014/12/30/373982538/hospitals-win-in-states-that-chose-to-expand-medicaid?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 30 Dec 2014 03:58:00 -0500", 
+        "description": "Everyone knows it's dangerous to drink and drive, but a lot of people still do it. Strict enforcement of traffic laws makes it less likely that people will get behind the wheel when soused.", 
+        "geo_data": {
+            "latitude": "39.7837304", 
+            "longitude": "-100.4458825"
+        }, 
+        "location": "United States", 
+        "reporter": [
+            "Patti Neighmond"
+        ], 
+        "title": "Traffic Stops Persuade People To Avoid Drinking And Driving", 
+        "url": "http://www.npr.org/blogs/health/2014/12/30/371944905/traffic-stops-persuade-people-to-avoid-drinking-and-driving?ft=3&f=103537970"
+    }
+]

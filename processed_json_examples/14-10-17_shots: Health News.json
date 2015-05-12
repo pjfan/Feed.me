@@ -1,0 +1,139 @@
+[
+    {
+        "date": "Thu, 16 Oct 2014 17:19:00 -0400", 
+        "description": "Until recently, freezing human eggs was reserved for young women at risk of infertility due to cancer treatments. But some companies now pay for it for healthy women who want to delay motherhood.", 
+        "geo_data": null, 
+        "location": null, 
+        "reporter": [
+            "Patti Neighmond"
+        ], 
+        "title": "Women Can Freeze Their Eggs For The Future, But At A Cost", 
+        "url": "http://www.npr.org/blogs/health/2014/10/16/356727823/freezing-a-womans-eggs-can-be-emotionally-and-financially-costly?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Thu, 16 Oct 2014 14:04:00 -0400", 
+        "description": "More than half of Americans polled said they were concerned about an Ebola outbreak in the U.S. within a year. When asked the same question in August, 39 percent of people expressed the same concern.", 
+        "geo_data": {
+            "latitude": "32.7761963", 
+            "longitude": "-96.7968994"
+        }, 
+        "location": "Dallas, United States", 
+        "reporter": [
+            "Scott Hensley"
+        ], 
+        "title": "Poll: Majority Of Americans Worried About U.S. Ebola Outbreak", 
+        "url": "http://www.npr.org/blogs/health/2014/10/16/356652215/poll-majority-of-americans-worried-about-u-s-ebola-outbreak?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Thu, 16 Oct 2014 10:37:00 -0400", 
+        "description": "Texas clinics that provide abortion services were surprised by a ruling from the high court this week that allows them to reopen. But the bruising legal battle may have already changed the landscape.", 
+        "geo_data": {
+            "latitude": "29.951919", 
+            "longitude": "-95.5409143301668"
+        }, 
+        "location": "Houston", 
+        "reporter": [
+            "Carrie Feibel"
+        ], 
+        "title": "Despite Legal Reprieve On Abortion, Some Texas Clinics Remain Closed", 
+        "url": "http://www.npr.org/blogs/health/2014/10/16/356638657/despite-legal-reprieve-on-abortion-some-texas-clinics-remain-closed?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Wed, 15 Oct 2014 18:03:00 -0400", 
+        "description": "Some U.S airports scanning passengers for Ebola are using hand-held infrared thermometers to help detect fever. The devices aren't perfect but do contribute to the safety net, health officials say.", 
+        "geo_data": {
+            "latitude": "40.7305991", 
+            "longitude": "-73.9865812"
+        }, 
+        "location": "New York", 
+        "reporter": [
+            "Alison Bruzek"
+        ], 
+        "title": "How A No-Touch Thermometer Detects A Fever", 
+        "url": "http://www.npr.org/blogs/health/2014/10/15/356398102/how-a-no-touch-thermometer-detects-a-fever?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Wed, 15 Oct 2014 12:51:00 -0400", 
+        "description": "Taming Ebola virus is now a challenge for the American health care system. We track the U.S. experience with Ebola from the discovery of a strain in laboratory monkeys in 1989 to the current outbreak.", 
+        "geo_data": {
+            "latitude": "32.7761963", 
+            "longitude": "-96.7968994"
+        }, 
+        "location": "Dallas, United States", 
+        "reporter": [
+            "Alison Bruzek"
+        ], 
+        "title": "Ebola In The United States: What Happened When", 
+        "url": "http://www.npr.org/blogs/health/2014/10/15/356098903/ebola-in-the-united-states-what-happened-when?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 14 Oct 2014 18:33:00 -0400", 
+        "description": "Cells derived from embryos appear to have improved vision in more than half of the 18 patients who had become legally blind because of two progressive, currently incurable eye diseases.", 
+        "geo_data": {
+            "latitude": "-27.8643546", 
+            "longitude": "-54.4779287"
+        }, 
+        "location": "Santa Rosa", 
+        "reporter": [
+            "Rob Stein"
+        ], 
+        "title": "Embryonic Stem Cells Restore Vision In Preliminary Human Test ", 
+        "url": "http://www.npr.org/blogs/health/2014/10/14/346174070/embryonic-stem-cells-restore-vision-in-preliminary-human-test?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 14 Oct 2014 17:07:00 -0400", 
+        "description": "Proposition 46 tackles painkiller abuse, malpractice caps and mandatory drug and alcohol testing of doctors. Backers say the law would enhance patient safety, but doctors say the cost is too high.", 
+        "geo_data": {
+            "latitude": "40.125222", 
+            "longitude": "-87.6304614"
+        }, 
+        "location": "Danville", 
+        "reporter": [
+            "April Dembosky"
+        ], 
+        "title": "California Ballot Measure Pits Doctors Against Lawyers", 
+        "url": "http://www.npr.org/blogs/health/2014/10/14/356050478/california-ballot-measure-pits-doctors-against-lawyers?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 14 Oct 2014 16:22:49 -0400", 
+        "description": "It's not clear how Dallas nurse Nina Pham became infected with Ebola virus while working in the intensive care unit. Nurses at many hospitals say they haven't had enough training to deal with Ebola.", 
+        "geo_data": {
+            "latitude": "32.7761963", 
+            "longitude": "-96.7968994"
+        }, 
+        "location": "Dallas, United States", 
+        "reporter": [
+            "Nancy Shute"
+        ], 
+        "title": "Nurses Want To Know How Safe Is Safe Enough With Ebola", 
+        "url": "http://www.npr.org/blogs/health/2014/10/14/356130469/nurses-want-to-know-how-safe-is-safe-enough-with-ebola?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 14 Oct 2014 14:05:00 -0400", 
+        "description": "Women's voices are often criticized, especially at work. We're called \"shrill,\" told we \"lack authority.\" Here's t<em></em>he story of two women who changed their voices in a quest to be heard.", 
+        "geo_data": {
+            "latitude": "40.7305991", 
+            "longitude": "-73.9865812"
+        }, 
+        "location": "New York City, United States", 
+        "reporter": [
+            "Laura Starecheski"
+        ], 
+        "title": "Can Changing How You Sound Help You Find Your Voice?", 
+        "url": "http://www.npr.org/blogs/health/2014/10/14/354858420/can-changing-how-you-sound-help-you-find-your-voice?ft=3&f=103537970"
+    }, 
+    {
+        "date": "Tue, 14 Oct 2014 10:28:00 -0400", 
+        "description": "As many companies provide employees with their coverage details this fall, premiums are expected to increase modestly. Surcharges for spousal coverage and health savings accounts are also on the rise.", 
+        "geo_data": {
+            "latitude": "37.4538274", 
+            "longitude": "-122.1821871"
+        }, 
+        "location": "Menlo Park", 
+        "reporter": [
+            "Michelle Andrews"
+        ], 
+        "title": "Health Premiums And Costs Set To Rise For Workers Covered At Work", 
+        "url": "http://www.npr.org/blogs/health/2014/10/14/356097499/health-premiums-and-costs-set-to-rise-for-workers-covered-at-work?ft=3&f=103537970"
+    }
+]
